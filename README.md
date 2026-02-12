@@ -1,45 +1,48 @@
 # ml overfitting hyperparameter tuning (Task 3)
 
-**Project Overview**
+## Project Overview
 
 This project focuses on model validation, overfitting control, and hyperparameter tuning using the California Housing dataset. The objective is to build a regression model, evaluate its performance properly, and improve generalization using cross-validation and GridSearchCV.
 
-**Key Concepts Covered**
+## Key Concepts Covered
 
-Train–Test Split
+- Train–Test Split  
+- Overfitting & Underfitting  
+- Cross-Validation  
+- Hyperparameter Tuning  
+- GridSearchCV  
+- RMSE and R² Evaluation  
 
-Overfitting & Underfitting Detection
 
-Bias–Variance Tradeoff
+## Tools & Technologies
 
-K-Fold Cross-Validation
+- Python
 
-Hyperparameter Tuning
+- scikit-learn
 
-GridSearchCV Workflow
+- NumPy
 
-Model Evaluation (RMSE, R²)
+- Pandas
 
-**Tools & Technologies**
+- Matplotlib
 
-Python
-scikit-learn
-NumPy
-Pandas
-Matplotlib
-Google Colab / Jupyter Notebook
+- Google Colab / Jupyter Notebook
 
-**Models Implemented**
+## Models Implemented
 
-Decision Tree Regressor (Baseline Model)
-Tuned Decision Tree Regressor (using GridSearchCV)
+- Decision Tree Regressor (Baseline Model)
 
-**Results**
+- Tuned Decision Tree Regressor (using GridSearchCV)
 
-Baseline model showed signs of overfitting.
-Cross-validation provided more reliable performance estimation.
-Hyperparameter tuning improved model generalization.
-Tuned model achieved better RMSE and R² compared to the baseline model.
+## Results
 
-**Author**
+- Baseline model showed signs of overfitting.
+
+- Cross-validation provided more reliable performance estimation.
+
+- Hyperparameter tuning improved model generalization.
+
+- Tuned model achieved better RMSE and R² compared to the baseline model.
+
+## Author
 Mydhili
