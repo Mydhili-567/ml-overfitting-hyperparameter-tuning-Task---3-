@@ -6,11 +6,16 @@ This project focuses on model validation, overfitting control, and hyperparamete
 
 ## Key Concepts Covered
 
-- Train–Test Split  
-- Overfitting & Underfitting  
-- Cross-Validation  
-- Hyperparameter Tuning  
-- GridSearchCV  
+- Train–Test Split
+  
+- Overfitting & Underfitting
+    
+- Cross-Validation
+    
+- Hyperparameter Tuning
+    
+- GridSearchCV
+  
 - RMSE and R² Evaluation  
 
 
