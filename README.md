@@ -7,11 +7,17 @@ This project focuses on model validation, overfitting control, and hyperparamete
 **Key Concepts Covered**
 
 Train–Test Split
+
 Overfitting & Underfitting Detection
+
 Bias–Variance Tradeoff
+
 K-Fold Cross-Validation
+
 Hyperparameter Tuning
+
 GridSearchCV Workflow
+
 Model Evaluation (RMSE, R²)
 
 **Tools & Technologies**
